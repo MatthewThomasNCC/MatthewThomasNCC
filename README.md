@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m currently working on my Computer Science I class
+- 🔭 I’m currently working on my Computer Science II class
 - 🌱 I’m currently learning all about Git and GitHub
 - 👯 I’m looking to collaborate on future projects in the class
 - 📫 How to reach me: matthew.thomas1@student.northampton.edu
